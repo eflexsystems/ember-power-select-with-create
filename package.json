@@ -17,7 +17,7 @@
   "dependencies": {
     "ember-cli-babel": "^6.0.0",
     "ember-cli-htmlbars": "^1.1.1",
-    "ember-power-select": "eflexsystems/ember-power-select#e56bd7d43bbbad0949528197db9e2666a403fd41"
+    "ember-power-select": "eflexsystems/ember-power-select#10aed29c06e01a001de66d6c3279edc0fa054670"
   },
   "devDependencies": {
     "broccoli-asset-rev": "^2.4.5",
