@@ -1,6 +1,6 @@
 {
   "name": "eflex-ember-power-select-with-create",
-  "version": "0.4.5",
+  "version": "0.5.0",
   "description": "Ember Power Select addon that allows creation of items.",
   "directories": {
     "doc": "doc",
@@ -17,7 +17,7 @@
   "dependencies": {
     "ember-cli-babel": "^6.6.0",
     "ember-cli-htmlbars": "^2.0.1",
-    "eflex-ember-power-select": "^1.9.7"
+    "eflex-ember-power-select": "^1.10.1"
   },
   "devDependencies": {
     "broccoli-asset-rev": "^2.4.5",
